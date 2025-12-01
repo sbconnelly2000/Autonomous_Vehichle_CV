@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 import time
 from picamera2 import Picamera2
-from angle_utils import get_object_angles_px
+from calculate_angle import get_object_angles_px
 
 # Load the YOLO model
 model = YOLO("best_int8_320.tflite", task='detect')
