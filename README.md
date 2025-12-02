@@ -84,6 +84,15 @@ This significantly reduced distance estimation error and allowed the drone to ac
 | v3 (Deployed) | 320×320 (Int8)    | Medium-High   | ~180 ms                |
 
 ---
+## Results
+**Confusion Matrix**
+<img width="653" height="492" alt="image" src="https://github.com/user-attachments/assets/1be573a6-e5db-4979-9638-a1003134cd0c" />
+**Demo**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBped-qodn4?si=ClPvrtHLGiBFxjnd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Angle and Distance Demo**
+The field of view is 40 degrees, so the edges of the video are -20 and 20 degrees respectively.
+<iframe width="620" height="350" src="https://www.youtubeeducation.com/embed/lM5H7Te9Ru0" title="IMG 4388" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## 👥 Team & Acknowledgements
 
