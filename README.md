@@ -85,18 +85,27 @@ This significantly reduced distance estimation error and allowed the drone to ac
 
 ---
 
-## 💻 Installation & Usage
+## 👥 Team & Acknowledgements
 
-### **Prerequisites**
-- Raspberry Pi 4 (Recommended) or any Linux environment  
-- Python 3.8+
+**Defend The Republic — Computer Vision Team**
+
+- Samson C. (Lead / Optimization)  
+- Thanakin C.  
+- Leah H.  
+- Sam H.  
+- Yoav K.  
+- Jiaqi W.  
+
+Special thanks to **Professor Or** and our mentors at **Indiana University Bloomington** for their guidance in hardware integration.
 
 ---
 
-### **Setup**
+## 📬 Contact
 
-Clone the repository:
+**Your Name**  
+Junior, Intelligent Systems Engineering @ IU Bloomington  
 
-bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+**LinkedIn:** www.linkedin.com/in/samson-connelly-03811330b  
+**Email:** sbconnelly2000@gmail.com  
+
+Looking for **Summer 2026 Internship** opportunities in Embedded Systems, Computer Vision, or Robotics.
