@@ -1,6 +1,6 @@
 # **Defend The Republic: Autonomous Aerial Computer Vision System**
 
-## 📖 Project Overview
+## Project Overview
 
 This repository contains the computer vision subsystem for the **Defend The Republic (DTR)** autonomous aerial competition team at Indiana University Bloomington.
 
@@ -8,7 +8,7 @@ As a Junior Intelligent Systems Engineering student, my role focused on developi
 
 ---
 
-## 🎯 Key Capabilities
+## Key Capabilities
 
 - **Object Detection:** Identifies 8 distinct classes (Orange/Yellow Circles, Squares, Triangles; Purple/Green Balls) using a custom-trained YOLOv8 model.  
 - **Edge Optimization:** Optimized for Raspberry Pi 4, achieving **180ms inference time** (down from 1s) via quantization and input scaling.  
@@ -16,7 +16,7 @@ As a Junior Intelligent Systems Engineering student, my role focused on developi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Hardware:** Raspberry Pi 4 Model B, Pi Camera Module  
 **ML Frameworks:** PyTorch, Ultralytics YOLOv8  
@@ -25,7 +25,7 @@ As a Junior Intelligent Systems Engineering student, my role focused on developi
 
 ---
 
-## ⚙️ System Architecture
+## System Architecture
 
 The pipeline processes video input to output navigation vectors for the flight controller.
 
@@ -49,7 +49,7 @@ graph TD
 
 ---
 
-## 🚀 Engineering Challenges & Optimizations
+## Engineering Challenges & Optimizations
 
 One of the significant challenges we faced was the hardware limitation of the **Raspberry Pi 4**.
 
@@ -75,7 +75,7 @@ This significantly reduced distance estimation error and allowed the drone to ac
 
 ---
 
-## 📊 Performance Visuals
+## Performance Visuals
 
 | Model Version | Resolution        | Precision     | Inference Time (Pi 4) |
 |---------------|-------------------|---------------|------------------------|
@@ -100,7 +100,7 @@ The field of view is 40 degrees, so the edges of the video are -20 and 20 degree
 [![Angle and Distance Demo Thumbnail](https://img.youtube.com/vi/lM5H7Te9Ru0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lM5H7Te9Ru0)
 
 
-## 👥 Team & Acknowledgements
+## Team & Acknowledgements
 
 **Defend The Republic — Computer Vision Team**
 
@@ -115,9 +115,9 @@ Special thanks to **Professor Or** and our mentors at **Indiana University Bloom
 
 ---
 
-## 📬 Contact
+## Contact
 
-**Your Name**  
+**Samson Connelly**  
 Junior, Intelligent Systems Engineering @ IU Bloomington  
 
 **LinkedIn:** www.linkedin.com/in/samson-connelly-03811330b  
