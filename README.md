@@ -39,7 +39,7 @@ graph TD
     D --> F[Angle Calculation]
     E & F --> G[Output Vector]
     G -->|UDP/Serial| H[Flight Controller]
-
+```
 
 ## The Data Pipeline
 
@@ -97,6 +97,6 @@ This significantly reduced distance estimation error and allowed the drone to ac
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
 cd REPO_NAME
