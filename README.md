@@ -87,13 +87,13 @@ This significantly reduced distance estimation error and allowed the drone to ac
 ## Results
 **Confusion Matrix**
 <img width="653" height="492" alt="image" src="https://github.com/user-attachments/assets/1be573a6-e5db-4979-9638-a1003134cd0c" />
-## Demo
+## Demo (Click to watch video)
 
 [![Demo Video Thumbnail](https://img.youtube.com/vi/WBped-qodn4/maxresdefault.jpg)](https://www.youtube.com/watch?v=WBped-qodn4)
 
 ---
 
-## Angle and Distance Demo
+## Angle and Distance Demo (Click to watch video)
 
 The field of view is 40 degrees, so the edges of the video are -20 and 20 degrees respectively.
 
