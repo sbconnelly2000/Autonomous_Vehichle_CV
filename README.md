@@ -95,7 +95,7 @@ This significantly reduced distance estimation error and allowed the drone to ac
 
 ## Angle and Distance Demo (Click to watch video)
 
-The field of view is 40 degrees, so the edges of the video are -20 and 20 degrees respectively.
+The field of view is 40 degrees, so the edges of the video are -20 and 20 degrees respectively. The angles are displayed in the bottom left corner of the bounded box
 
 [![Angle and Distance Demo Thumbnail](https://img.youtube.com/vi/lM5H7Te9Ru0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lM5H7Te9Ru0)
 
